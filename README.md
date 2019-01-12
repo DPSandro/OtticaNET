@@ -1,2 +1,2 @@
 # OtticaNET
-OtticaNET ASP.NET Core App
+OtticaNET Gestionale per Negozi di Ottici
